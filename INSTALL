@@ -1,0 +1,9 @@
+Building prosecco
+
+See doc/readme-qt.rst for instructions on building prosecco QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of prosecco.
+
+See doc/build-*.txt for instructions on building proseccod,
+the intended-for-services, no-graphical-interface, reference
+implementation of prosecco.
